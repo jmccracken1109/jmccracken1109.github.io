@@ -15,6 +15,7 @@ author: John McCracken
 
 navbar-links:
   About Me: "aboutme"
+  Blog of Interest:
   Portfolio Skills:
     - 2D Art:
     - 3D Art: 
@@ -29,7 +30,7 @@ navbar-links:
     - Story Design:
     - Website Development:
     - Writting:
-  Author's home: 
+
 
 # --- Logo --- #
 
