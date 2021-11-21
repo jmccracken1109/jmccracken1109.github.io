@@ -4,7 +4,7 @@ title: About Me
 subtitle: Creating without end
 ---
 
-My name is John McCracken. I love games. I also love all aspects of making them. Heres what I can do:
+My name is John McCracken. I love games. I also love all aspects of making them. Here is what I can do:
 
 - 2D Art
 - 3D Art
