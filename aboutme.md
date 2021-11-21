@@ -31,6 +31,7 @@ From there my love for the industry only grew. All the things the gaming industr
 I moved in with my Dad. Shortly after I had been there he bought the first playstation when it came out. The first one he bought was a dud as so many 
 of the first generation were but was exhanged until we had one that worked.
 
+
 Around this time I found out my brother had started working for Eidos in San Fransisco. 
 This was another huge influence in my gaming life. I had my own gaming Idol to gawk after in my own family. Final Fantasy VII was one of the first games I sank a solid amount of hours into. 
 Continuing in the adolecence I started playing games such as Metal Gear Solid and Diablo 2. Diablo 2 was a game that changed me. Not only sinking coupious 
