@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: Creating without end
 ---
 
-My name is John McCracken. I love games. I also love making them. Heres what I can do:
+My name is John McCracken. I love games. I also love all aspects of making them. Heres what I can do:
 
 - 2D Art
 - 3D Art
@@ -25,7 +25,7 @@ What else do you need? I'll learn that too.
 
 ### My Gamer Life
 
-My life as a gamer started early. I grew up in California and started gaming by watching my brother play games I was too young to be playing, things such as Zelda and Metroid on the NES. 
+My life as a gamer started early. I grew up in California and started gaming by watching my brother play games I was too young to play, games such as Zelda and Metroid on the NES. 
 I started my own gaming pursuit by the age of six, but because of our constant moving and family dynamic I wasn't a full gamer until I was a bit older. 
 From the first game I watched, my love for the industry grew. All the things the gaming industry is able to accomplish through the medium blew me away. 
 I wasn't a fully established gamer until about nine or ten years of age, after I moved in with my Dad. Shortly after I had been there he bought the first playstation when it came out. 
@@ -37,7 +37,11 @@ I sank a solid amount of hours into and the first game that really made me feel 
 
 
 Continuing into adolecence I started playing games such as Metal Gear Solid and Diablo 2. Diablo 2 was the second game that changed me in a large way. Not only did I sink coupious 
-amounts of hours into it, it showed me a genre of games I would go on to love and enjoy to this day. It's a game that made me want to get into game development so that I could make a game as fun and engaging as Diablo 2. 
+amounts of hours into it, it showed me a genre of games I would go on to love and enjoy to this day. It's a game that made me want to get into game development so that I could make a game as fun and engaging as Diablo 2.
+My older brother did a great job converting my father into a gamer as Dad started buying the new consoles when they came out. Games through that time just compounded the gamer life in me and pushed my desire to be in the 
+game industry even more. Series such as Halo, Elder Scrolls and Half life had a profound impact on me at that time. It was the time I really started to challenge myself as a gamer and beat any game I could.
+
+
 In my early High School years the behemoth of a game from Blizzard, World of Warcraft, came out. 
 That game just about single handedly shut down my school career in almost an instant on top of playing Counter Strike at the time. 
 Never have I blow 15 hours in a day gaming, and not even notice the time melting away. The "WoW crack" was real and this was the start of game bingeing for me. Understanding who I am early on, drove my parents crazy. 
