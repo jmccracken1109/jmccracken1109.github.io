@@ -14,6 +14,7 @@ author: John McCracken
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
   Blog of Interest:
   Portfolio Skills:
@@ -32,9 +33,9 @@ navbar-links:
     - Website Development:
     - Writting:
   Hobbies:
+    - Art:
     - Cryptocurrency:
     - Disc Golf:
-    - Financial Investments:
     - Gold Panning:
     - Renewable Energy:
     - Traveling:

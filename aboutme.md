@@ -38,8 +38,8 @@ I sank a solid amount of hours into and the first game that really made me feel 
 
 Continuing into adolecence I started playing games such as Metal Gear Solid and Diablo 2. Diablo 2 was the second game that changed me in a large way. Not only did I sink coupious 
 amounts of hours into it, it showed me a genre of games I would go on to love and enjoy to this day. It's a game that made me want to get into game development so that I could make a game as fun and engaging as Diablo 2.
-My older brother did a great job converting my father into a gamer as Dad started buying the new consoles when they came out. Games through that time just compounded the gamer life in me and pushed my desire to be in the 
-game industry even more. Series such as Halo, Elder Scrolls and Half life had a profound impact on me at that time. It was the time I really started to challenge myself as a gamer and beat any game I could.
+My older brother did a great job converting my father into a gamer, as Dad started buying all the new consoles when they came out. Games through that time just compounded the gamer life in me and pushed my desire to be in the 
+game industry even more. Series such as Halo, Elder Scrolls and Half life had a profound impact on me at that time. It was the time I really started to challenge myself as a gamer and beat any game I could sink my teeth into.
 
 
 In my early High School years the behemoth of a game from Blizzard, World of Warcraft, came out. 
