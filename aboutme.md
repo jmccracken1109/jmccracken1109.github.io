@@ -16,7 +16,7 @@ My name is John McCracken. I love games. I also love all aspects of making them.
 - Music
 - Photography
 - Programming
-- Sounds Design
+- Sound Design
 - Story Design
 - Website Development
 - Writting
