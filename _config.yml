@@ -16,30 +16,30 @@ author: John McCracken
 navbar-links:
   Home: https://jmccracken1109.github.io/
   About Me: "aboutme"
-  Blog of Interest:
+  Blog of Interest: "blogofinterest.md"
   Portfolio Skills:
-    - 2D Art:
-    - 3D Art: 
-    - Animation:
-    - Cryptocurrency:
-    - Documentation:
-    - Game Development:
-    - Level Design:
-    - Music:
-    - Photography:
-    - Programming:
-    - Sound Design:
-    - Story Design:
-    - Website Development:
-    - Writting:
+    - 2D Art: "2dart"
+    - 3D Art: "3dart"
+    - Animation: "Aaimation"
+    - Cryptocurrency: "crypto"
+    - Documentation: "documentation"
+    - Game Development: "gamedev"
+    - Level Design: "leveldesign"
+    - Music: "music"
+    - Photography: "photography"
+    - Programming: "programming"
+    - Sound Design: "sounddesign"
+    - Story Design: "storydesign"
+    - Website Development: "webdev"
+    - Writting: "writting"
   Hobbies:
-    - Art:
-    - Cryptocurrency:
-    - Disc Golf:
-    - Gold Panning:
-    - Renewable Energy:
-    - Traveling:
-    - Video Games:
+    - Art: "art"
+    - Cryptocurrency: "cryptohob"
+    - Disc Golf: "discgolf"
+    - Gold Panning: "goldpanning"
+    - Renewable Energy: "renewableenergy"
+    - Traveling: "travel"
+    - Video Games: "videogames"
 
 
 
