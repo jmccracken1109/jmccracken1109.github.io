@@ -1,5 +1,5 @@
 ---
 layout: page
-title: VIDEO GAMES!!!
+title: Video Games
 subtitle: This is what I am playing currently.
 ---

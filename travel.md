@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Travels
+title: Travel
 subtitle: with the FAM!
 ---

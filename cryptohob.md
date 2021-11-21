@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Crypto Hobby Page
+title: Crypto Hobby Page
 subtitle: 
 ---

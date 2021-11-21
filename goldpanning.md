@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My GOLD!
+title: Gold Panning
 subtitle: 
 ---

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Level Designs
+title: Level Designs
 subtitle: 
 ---

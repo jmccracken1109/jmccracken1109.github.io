@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Sounds Design
+title: Sound Design
 subtitle: 
 ---

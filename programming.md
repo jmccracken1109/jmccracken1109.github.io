@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Programming
+title: Programming
 subtitle: 
 ---

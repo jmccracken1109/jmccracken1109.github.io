@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Photography
+title: Photography
 subtitle: 
 ---

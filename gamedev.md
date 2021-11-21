@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Game Development
+title: Game Development
 subtitle: 
 ---
