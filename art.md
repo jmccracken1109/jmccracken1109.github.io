@@ -1,5 +1,5 @@
 ---
 layout: page
-title: My Art
+title: Art
 subtitle: 
 ---
