@@ -14,7 +14,7 @@ author: John McCracken
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home:
   About Me: "aboutme"
   Blog of Interest:
   Portfolio Skills:
