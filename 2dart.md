@@ -8,6 +8,6 @@ subtitle:
 
 ![Skorptipus](assets/img/2DArt/Skorptipus.jpg)
 
-![Skorptipus](assets/img/2DArt/SpacePhoWorld.png)
+![Space Pho World](assets/img/2DArt/SpacePhoWorld.png)
 
-![Skorptipus](assets/img/2DArt/hodltogether.jpg)
+![Hold Together](assets/img/2DArt/hodltogether.jpg)
