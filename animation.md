@@ -8,4 +8,4 @@ subtitle:
 
 ![Pho Titan Storyboard 2](assets/img/Animations/JGMStoryboardPg2.png)
 
-![Pho Titan Animation](https://youtu.be/7qhCoitBQ_E)
+[![Pho Titan Animation]](https://youtu.be/7qhCoitBQ_E)
