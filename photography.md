@@ -10,6 +10,8 @@ subtitle: Looking at the World in Ways Others Don’t
 ![Light Raven](assets/img/Photography/lightraven.jpg)
 
 -----------------------------
+-----------------------------
+-----------------------------
 
 ![Canvas in Time](assets/img/Photography/canvas_in_time_by_burning2sleep_d4fdm70-fullview.jpg)
 
