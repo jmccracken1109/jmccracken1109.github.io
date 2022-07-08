@@ -9,13 +9,9 @@ My name is John McCracken. I love games. I also love all aspects of making them.
 - 2D Art
 - 3D Art
 - Animation
-- Game Development
 - Level Design
-- Music
 - Photography
 - Programming
-- Sound Design
-- Story Design
 - Website Development
 - Writting
 
