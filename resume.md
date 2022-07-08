@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: McCracken is my Name, and Eclecticism is my Game.
+subtitle: McCracken is My Name, and Eclecticism is My Game.
 ---
 
 ### A Letter to Potential Employeer's
