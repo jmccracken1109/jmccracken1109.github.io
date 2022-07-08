@@ -17,6 +17,7 @@ navbar-links:
   Home: https://jmccracken1109.github.io/
   About Me: "aboutme"
   Resume: "resume"
+  Projects: "projects"
   Portfolio Skills:
     - 2D Art: "2dart"
     - 3D Art: "3dart"
