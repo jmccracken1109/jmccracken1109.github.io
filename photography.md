@@ -16,7 +16,7 @@ subtitle: Looking at the World in Ways Others Don’t
 
 ![Hold Still](assets/img/Photography/hold_still_by_burning2sleep_d4y4wos-fullview.jpg)
 
-![Molten Sheep](assets/img/Photography/molten_sheep_by_burning2sleep_d4c9pui-fullview (1).jpg)
+![Molten Sheep](assets/img/Photography/moltenSheep.jpg)
 
 ![Rugged](assets/img/Photography/rugged_by_burning2sleep_d5gif6l-fullview.jpg)
 
