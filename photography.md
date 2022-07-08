@@ -28,8 +28,6 @@ subtitle: Looking at the World in Ways Others Don’t
 
 ![Luminescent](assets/img/Photography/luminescent_by_burning2sleep_d4gq0uc-fullview.jpg)
 
-![Escape](assets/img/Photography/foreign_escape_by_burning2sleep_d70nevc-fullview.jpg)
-
 ![Tension](assets/img/Photography/tension_by_burning2sleep_d4fewnp-fullview.jpg)
 
-
+![Escape](assets/img/Photography/foreign_escape_by_burning2sleep_d70nevc-fullview.jpg)
