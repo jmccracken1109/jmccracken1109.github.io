@@ -13,7 +13,7 @@ My name is John McCracken. I love games. I also love all aspects of making them.
 - Photography
 - Programming
 - Website Development
-- Writting
+- Writing
 
 Need something else? I'll learn that too.
 
