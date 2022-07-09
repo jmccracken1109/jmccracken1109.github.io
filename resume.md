@@ -6,7 +6,7 @@ subtitle: McCracken is My Name, and Eclecticism is My Game.
 
 ### Resume
 
-![John McCracken Resume](docs/JohnMcCrackenResume.PNG)
+![John McCracken Resume](assets/img/JohnMcCrackenResume.PNG)
 
 ### Interview Questions & Responses
 
