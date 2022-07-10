@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: McCracken is My Name, and Eclecticism is My Game.
+subtitle:
 ---
 
 ![John McCracken Resume](assets/img/JohnMcCrackenResume.PNG)
