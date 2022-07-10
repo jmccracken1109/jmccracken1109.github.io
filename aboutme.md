@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Creating without end
+subtitle: Creating Without End
 ---
 
 My name is John McCracken. I love games. I also love all aspects of making them. Here is what I can do:
