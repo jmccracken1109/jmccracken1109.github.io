@@ -6,14 +6,18 @@ subtitle: Creating Without End
 
 My name is John McCracken. I love games. I also love all aspects of making them. Here is what I can do:
 
-- 2D Art
+#### Proficient
 - 3D Art
-- Animation
 - Level Design
+- Writing
 - Photography
+
+#### Familiar
+- 2D Art
+- Animation
 - Programming
 - Website Development
-- Writing
+
 
 Need something else? I'll learn that too.
 
