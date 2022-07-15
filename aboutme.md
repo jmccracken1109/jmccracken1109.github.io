@@ -15,8 +15,8 @@ My name is John McCracken. I love games. I also love all aspects of making them.
 #### Familiar
 - 2D Art
 - Animation
-- Programming
-- Website Development
+- C# Programming
+- HTML/CSS/MD Website Development
 
 Need something else? I'll learn that too.
 
