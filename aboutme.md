@@ -7,14 +7,14 @@ subtitle: Creating Without End
 My name is John McCracken. I love games. I also love all aspects of making them. Here is what I can do for you:
 
 #### Proficient
-- 3D Art
-- Level Design
+- 3D Art - Maya, Blender, Substance Painter
+- Level Design - Maya, Unity
 - Writing
-- Photography
+- Photography - Photoshop, Lightroom
 
 #### Familiar
-- 2D Art
-- Animation
+- 2D Art - Photoshop, Illustrator
+- Animation - Adobe Animate
 - C# Programming
 - HTML/CSS/MD Website Development
 
