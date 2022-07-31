@@ -19,7 +19,7 @@ subtitle:
 
 ### Skills
 
-  ##### Chracter Art
+#### Chracter Art
   * Modeling
 
 - Environment Art
