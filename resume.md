@@ -46,6 +46,6 @@ subtitle:
 #### Writing
 - Story Development
 - Dialogue Writing
-- Design pwoerful narratives for immersive experinces
+- Design powerful narratives for immersive experinces
 - Game Engine Implementation
 - I like to break the english language and put it back together in interesting/etertaining ways.
