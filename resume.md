@@ -6,15 +6,20 @@ subtitle:
 
 ### Education
 
-Ubalt
+- University of Baltimore - 2022 Gradute
+- Bachelor's Degree: Simulation & Game Design
 
 ### Software
 
-Maya
+- Maya
+- Substance
+- Unity
+- Photoshop
+- Illustrator
 
 ### Skills
 
-- Chracter Art
+  ##### Chracter Art
   * Modeling
 
 - Environment Art
