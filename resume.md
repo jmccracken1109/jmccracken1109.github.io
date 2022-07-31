@@ -15,8 +15,7 @@ Maya
 ### Skills
 
 - Chracter Art
-
-⋅⋅⋅* Modeling
+⋅⋅* Modeling
 
 - Environment Art
 - Level Building
