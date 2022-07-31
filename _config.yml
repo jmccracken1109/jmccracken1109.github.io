@@ -17,18 +17,15 @@ navbar-links:
   Home: https://jmccracken1109.github.io/
   About Me: "aboutme"
   Resume: "resume"
-  Projects: "projects"
-  Portfolio Skills:
-    - 2D Art: "2dart"
+  Skills:
+    - Projects: "projects"
     - 3D Art: "3dart"
-    - Animation: "animation"
     - Level Design: "leveldesign"
-    - Photography: "photography"
-    - Programming: "programming"
     - Writing: "writing"
   Hobbies:
-    - Art: "art"
+    - AI Art: "art"
     - Disc Golf: "discgolf"
+    - Photography: "photography"
     - Traveling: "travel"
     - Video Games: "videogames"
 
