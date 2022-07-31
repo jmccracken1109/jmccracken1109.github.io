@@ -4,20 +4,20 @@ title: Resume
 subtitle:
 ---
 
-### Education
+## Education
 
 - University of Baltimore - 2022 Gradute
 - Bachelor's Degree: Simulation & Game Design
 
-### Software
+## Software
 
 - Maya
 - Substance
 - Unity
 - Photoshop
-- Illustrator
+- Microsoft Office Suite
 
-### Skills
+## Skills
 
 #### Chracter Art
 - Initial design concepts
@@ -43,6 +43,7 @@ subtitle:
 - Polish and optimization
 
 #### Writing
-- 
-
-### Experience
+- Story Development
+- Dialogue Writing
+- Design pwoerful narratives for immersive experinces
+- Game Engine Implementation
