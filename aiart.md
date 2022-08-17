@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Art
-subtitle: 
+subtitle: Supercharge Creativity
 ---
 
 ![Kraken Eats The Sun](assets/img/AIArt/DALL·E 2022-07-15 22.59.17 - A Kraken eating a sun in space.png)
