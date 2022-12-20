@@ -11,9 +11,10 @@ subtitle:
 
 ## Software
 
-- Maya
-- Substance
-- Unity
+- Maya/Blender
+- ZBrush
+- Substance Painter
+- Unity/Unreal Engine
 - Photoshop
 - Twine
 - Microsoft Office Suite
@@ -22,7 +23,7 @@ subtitle:
 
 #### Chracter Art
 - Initial design concepts
-- Developing 3D model from 2D assets
+- Developing 3D models from 2D assets
 - Retopologizing
 - UV Unwrap
 - Texturing
