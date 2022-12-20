@@ -6,7 +6,7 @@ subtitle:
 
 ## Education
 
-- University of Baltimore - 2022 Gradute
+- University of Baltimore - 2022 Graduate
 - Bachelor's Degree: Simulation & Game Design
 
 ## Software
@@ -21,7 +21,7 @@ subtitle:
 
 ## Skills
 
-#### Chracter Art
+#### Character Art
 - Initial design concepts
 - Developing 3D models from 2D assets
 - Retopologizing
@@ -47,5 +47,5 @@ subtitle:
 #### Writing
 - Story Development
 - Dialogue Writing
-- Design powerful narratives for immersive experinces
+- Design powerful narratives for immersive experiences
 - Game Engine Implementation
