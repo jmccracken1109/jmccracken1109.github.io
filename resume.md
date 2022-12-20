@@ -7,7 +7,7 @@ subtitle:
 ## Education
 
 - University of Baltimore - 2022 Graduate
-- Bachelors Degree: Simulation & Game Design
+- Bachelors Degree - Simulation & Game Design
 
 ## Software
 
