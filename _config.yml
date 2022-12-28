@@ -19,6 +19,9 @@ navbar-links:
   Resume: "resume"
   Skills:
     - Projects: "projects"
+      - OGM: "onegunman"
+      - THR3E: "three"
+      - Robot Rally: "robotrally"
     - 3D Art: "3dart"
     - Level Design: "leveldesign"
     - Writing: "writing"
