@@ -18,13 +18,13 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Skills:
-    - Projects: "projects"
-      - OGM: "onegunman"
-      - THR3E: "three"
-      - Robot Rally: "robotrally"
     - 3D Art: "3dart"
     - Level Design: "leveldesign"
     - Writing: "writing"
+  Projects: "projects"
+      - OGM: "onegunman"
+      - THR3E: "three"
+      - Robot Rally: "robotrally"
   # Hobbies:
    # - AI Art: "aiart"
     #- Disc Golf: "discgolf"
