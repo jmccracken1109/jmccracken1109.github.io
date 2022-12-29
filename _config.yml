@@ -14,10 +14,10 @@ author: John McCracken
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: https://jmccracken1109.github.io/
+  Home: "home"
   About Me: "aboutme"
   Resume: "resume"
-  Skills:
+  Skills: "skills"
     - 3D Art: "3dart"
     - Level Design: "leveldesign"
     - Writing: "writing"
