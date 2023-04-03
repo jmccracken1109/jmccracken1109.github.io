@@ -14,15 +14,15 @@ author: John McCracken
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- Home: "home"
- About Me: "aboutme"
- Resume: "resume"
- Skills: "skills"
-   - 3D Art: "3dart"
-   - Level Design: "leveldesign"
-   - Writing: "writing"
-   - Design: "design"
- Projects: "projects"
+  Home: "home"
+  About Me: "aboutme"
+  Resume: "resume"
+  Skills:
+    - 3D Art: "3dart"
+    - Level Design: "leveldesign"
+    - Writing: "writing"
+    - Design: "design"
+  Projects:
     - OGM: "onegunman"
     - THR3E: "three"
     - Robot Rally: "robotrally"
@@ -31,7 +31,6 @@ navbar-links:
    # - Disc Golf: "discgolf"
    # - Photography: "photography"
    # - Traveling: "travel"
-
 
 
 # --- Logo --- #
