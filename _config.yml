@@ -23,14 +23,14 @@ navbar-links:
     - Writing: "writing"
     - Design: "design"
   Projects: "projects"
-      - OGM: "onegunman"
-      - THR3E: "three"
-      - Robot Rally: "robotrally"
+     - OGM: "onegunman"
+     - THR3E: "three"
+     - Robot Rally: "robotrally"
   # Hobbies:
    # - AI Art: "aiart"
-    # - Disc Golf: "discgolf"
-    # - Photography: "photography"
-    # - Traveling: "travel"
+   # - Disc Golf: "discgolf"
+   # - Photography: "photography"
+   # - Traveling: "travel"
 
 
 
