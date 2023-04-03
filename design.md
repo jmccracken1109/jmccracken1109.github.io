@@ -8,7 +8,7 @@ subtitle: Website & UI
 ![Products](assets/img/Products.png)
 ![Catering](assets/img/Catering.png)
 ![Cart](assets/img/Cart.png)
-![ContactUs](assets/img/Contact Us.png)
+![ContactUs](assets/img/ContactUs.png)
 
 ## UI Design - Krita
-![UI](assets/img/UI Elements.png)
+![UI](assets/img/UIElements.png)
