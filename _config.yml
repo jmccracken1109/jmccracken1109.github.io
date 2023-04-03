@@ -28,9 +28,9 @@ navbar-links:
       - Robot Rally: "robotrally"
   # Hobbies:
    # - AI Art: "aiart"
-    #- Disc Golf: "discgolf"
-    #- Photography: "photography"
-    #- Traveling: "travel"
+    # - Disc Golf: "discgolf"
+    # - Photography: "photography"
+    # - Traveling: "travel"
 
 
 
@@ -56,7 +56,7 @@ social-network-links:
   email: "Jmccracken1109@gmail.com"
   rss: false
   github: Jmccracken1109
-  youtube: "hhttps://www.youtube.com/channel/UC3OdZvtBwKtqF-qtLktwQDw"
+#  youtube: "hhttps://www.youtube.com/channel/UC3OdZvtBwKtqF-qtLktwQDw"
 #  medium: yourname
 #  reddit: yourname
   linkedin: jmccracken1109
@@ -67,7 +67,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-  twitch: BlackfireKraken
+#  twitch: BlackfireKraken
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
