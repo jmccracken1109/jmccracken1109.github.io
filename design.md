@@ -16,4 +16,5 @@ subtitle: Website & UI
 ![ContactUs](assets/img/ContactUs.png)
 
 ## UI Design - Krita
+### Concept -> Iteration
 ![UI](assets/img/UIElements.png)
